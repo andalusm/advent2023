@@ -1,6 +1,6 @@
 # Advent of Code 2023 Solutions
 
-![Advent of Code 2023](https://adventofcode.com/2023)
+[Advent of Code 2023](https://adventofcode.com/2023)
 
 ## Overview
 
@@ -10,8 +10,10 @@ Each day's solution is implemented in Python and is organized in a way that make
 
 ## Table of Contents
 
-- [Day 1: Trebuchet?!](day1.py/)
-- [Day 2: Cube Conundrum](day2.py/)
+- [Day 1: Trebuchet?!](https://adventofcode.com/2023/day/1) :
+[My solution](day1.py/)
+- [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) :
+[My solution](day2.py/)
 
 
 ## Getting Started
