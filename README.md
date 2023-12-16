@@ -14,6 +14,10 @@ Each day's solution is implemented in Python and is organized in a way that make
 [My solution](day1.py/)
 - [Day 2: Cube Conundrum](https://adventofcode.com/2023/day/2) :
 [My solution](day2.py/)
+- [Day 3: Gear Ratios](https://adventofcode.com/2023/day/3) :
+[My solution](day3.py/)
+- [Day 4: Scratchcards](https://adventofcode.com/2023/day/4) :
+[My solution](day4.py/)
 
 
 ## Getting Started
